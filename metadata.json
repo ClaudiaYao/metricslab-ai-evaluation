@@ -1,0 +1,6 @@
+{
+  "name": "MetricsLab - ML & AI Evaluation Engine",
+  "description": "Interactive evaluation metrics platform and guide for classification, regression, object detection, segmentation, and LLM systems with calculation methods, interactive visualizers, and dataset tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
