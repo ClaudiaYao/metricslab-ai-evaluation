@@ -2,7 +2,7 @@
 
 ## How to Run
 
-1. Type `npm install`
+1. Type `npm install --force`
 2. Type `npm run dev`
 3. Open `http://localhost:3000`
 
